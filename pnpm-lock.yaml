@@ -909,7 +909,7 @@ packages:
     hasBin: true
 
   '@nuxt/ui-pro@3.2.0':
-    resolution: {integrity: sha512-1FnRMgXAdWAkzIawJJUqRWphEXtyUgvLSbZmMDLGgYl0G3oGAO2dNJet6BXMgb7hzmDdX2m7U3lu26o87J8t2w==}
+    resolution: {integrity: sha512-SpgYDXHRDggZiYCE4CtH7Oi7L783VnVFSihtQSDGa7qZ67/7jKZ3aY821f7XTzxOshlEypU1gU/wmDXtzt7pdQ==}
     peerDependencies:
       joi: ^17.13.0
       superstruct: ^2.0.0
