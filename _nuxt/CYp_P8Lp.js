@@ -1,1 +1,0 @@
-import{_ as a,d as c,i as s,f as e,bO as r,w as l,V as p,bP as d,bQ as f}from"./Cdt_mlTY.js";const m={};function u(n,i){const t=r,o=d,_=f;return s(),c("div",null,[e(t),e(o,null,{default:l(()=>[p(n.$slots,"default")]),_:3}),e(_)])}const b=a(m,[["render",u]]);export{b as default};
