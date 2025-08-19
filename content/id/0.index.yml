@@ -1,150 +1,150 @@
-title: Build your SaaS with Nuxt UI Pro  id
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes. It includes all primitives to build landing pages, documentations, blogs, dashboards or entire SaaS products.
+title: Transformasi Dukungan Pelanggan dengan SaleSmartly
+description: SaleSmartly adalah platform komunikasi pelanggan omnichannel yang menyatukan live chat, WhatsApp, Facebook Messenger, Instagram, TikTok, Telegram, LINE, Email, VKontakte, dan WeChat ke dalam satu dashboard yang powerful. Dibangun untuk bisnis segala ukuran.
 seo:
-  title: Nuxt SaaS template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: SaleSmartly - Platform Dukungan Pelanggan Omnichannel
+  description: Transformasi dukungan pelanggan Anda dengan platform komunikasi terpadu SaleSmartly. Integrasikan live chat, WhatsApp, Facebook Messenger, dan 8+ saluran dalam satu dashboard.
 navigation: false
 hero:
   links:
-    - label: Get started
+    - label: Coba Gratis
       icon: i-lucide-arrow-right
       trailing: true
-      to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
+      to: https://app.salesmartly.com/registration?agent=id
       target: _blank
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
+    - label: Lihat Demo
+      icon: i-lucide-play
       size: xl
       color: neutral
       variant: subtle
-      to: https://github.com/nuxt-ui-pro/saas
+      to: /docs
       target: _blank
 sections:
-  - title: Enterprise-Grade Solutions
-    description: Transform your business with our comprehensive suite of tools. Built for scale, security, and seamless integration, our platform empowers teams to achieve more while maintaining complete control.
+  - title: Hub Komunikasi Omnichannel
+    description: Satukan semua percakapan pelanggan dalam satu dashboard yang powerful. Dari live chat hingga pesan media sosial, kelola setiap interaksi dengan lancar melalui 10+ saluran komunikasi.
     id: features
     orientation: horizontal
     features:
-      - name: Developer-First
-        description: Built by developers for developers, with extensive API documentation and flexible integration options.
-        icon: i-lucide-cog
-      - name: 99.9% Uptime
-        description: Enterprise-grade infrastructure with guaranteed reliability and automatic failover protection.
-        icon: i-lucide-check
-      - name: Bank-Level Security
-        description: SOC 2 Type II certified with end-to-end encryption and advanced threat detection.
-        icon: i-lucide-lock
-  - title: Optimized for Growth
-    description: Scale your business confidently with our enterprise-ready platform. From startups to Fortune 500 companies, we provide the tools and support you need to succeed.
+      - name: Integrasi Multi-Channel
+        description: Hubungkan LiveChat, WhatsApp, Facebook, Instagram, TikTok, Telegram, LINE, Email, VKontakte, dan WeChat dalam satu platform.
+        icon: i-lucide-message-square
+      - name: Terjemahan Real-Time
+        description: Hancurkan hambatan bahasa dengan terjemahan otomatis antara Anda dan pelanggan dari seluruh dunia.
+        icon: i-lucide-languages
+      - name: Otomasi AI 24/7
+        description: Chatbot bertenaga AI memberikan respons instan dan menangani pertanyaan rutin sepanjang waktu.
+        icon: i-lucide-bot-message-square
+  - title: Wawasan Pelanggan Cerdas
+    description: Ubah perilaku pengunjung menjadi wawasan yang dapat ditindaklanjuti. Lacak perjalanan pelanggan, analisis preferensi, dan berikan pengalaman personal yang mendorong konversi dan retensi.
     orientation: horizontal
     reverse: true
     features:
-      - name: Lightning Fast
-        description: Global CDN with sub-100ms latency and automatic performance optimization.
-        icon: i-lucide-rocket
-      - name: Predictable Pricing
-        description: Transparent, usage-based pricing with no hidden fees and volume discounts.
-        icon: i-lucide-circle-dollar-sign
-      - name: Infinite Scale
-        description: Auto-scaling architecture handles millions of requests without breaking a sweat.
-        icon: i-lucide-chart-bar
+      - name: Pelacakan Pengunjung
+        description: Pantau perilaku browsing, sumber rujukan, dan minat produk untuk memahami intensi pelanggan.
+        icon: i-lucide-eye
+      - name: Database Pelanggan
+        description: Bangun profil komprehensif dengan riwayat interaksi, preferensi, dan data tersinkronisasi lintas sistem.
+        icon: i-lucide-database
+      - name: Analitik Performa
+        description: Pelaporan multi-dimensi untuk memantau kualitas layanan, waktu respons, dan metrik konversi.
+        icon: i-lucide-chart-line
 features:
-  title: Features That Set Us Apart
-  description: Our platform combines enterprise-grade reliability with developer-friendly features, providing everything you need to build and scale your applications.
+  title: Fitur Powerful untuk Dukungan Modern
+  description: Semua yang Anda butuhkan untuk memberikan layanan pelanggan yang luar biasa, dari kontak awal hingga konversi. Streamline operasi dengan otomasi dan wawasan cerdas.
   items:
-    - title: Developer Experience
-      description: Comprehensive documentation, powerful CLI tools, and intuitive APIs that make development a joy.
-      icon: i-lucide-cog
-    - title: Enterprise Ready
-      description: SOC 2 Type II certified, GDPR compliant, with 24/7 enterprise support and dedicated success managers.
-      icon: i-lucide-check
-    - title: Advanced Security
-      description: Multi-factor authentication, role-based access control, and audit logs keep your data protected.
-      icon: i-lucide-lock
-    - title: Global Performance
-      description: Edge computing network spans 200+ locations ensuring lightning-fast response times worldwide.
-      icon: i-lucide-rocket
-    - title: Flexible Pricing
-      description: Pay only for what you use with transparent pricing and no long-term commitments required.
-      icon: i-lucide-circle-dollar-sign
-    - title: Infinite Scalability
-      description: Built on cloud-native architecture that automatically scales to meet any demand.
-      icon: i-lucide-chart-bar
+    - title: Widget Live Chat
+      description: Widget chat yang dapat disesuaikan sesuai gaya brand Anda dengan survey lead capture dan pesan proaktif.
+      icon: i-lucide-message-circle
+    - title: Dashboard Omni-Channel
+      description: Pusatkan semua percakapan dari 10+ saluran termasuk media sosial, aplikasi pesan, dan email dalam satu interface.
+      icon: i-lucide-layout-dashboard
+    - title: Otomasi Bertenaga AI
+      description: Chatbot cerdas dengan template siap pakai untuk pesan selamat datang, update pesanan, dan promosi diskon.
+      icon: i-lucide-bot-message-square
+    - title: Terjemahan Real-Time
+      description: Terjemahan pesan otomatis untuk berkomunikasi dengan mudah dengan pelanggan dalam bahasa apa pun.
+      icon: i-lucide-globe
+    - title: Manajemen Hubungan Pelanggan
+      description: CRM komprehensif dengan pelacakan interaksi, riwayat browsing, dan data pelanggan tersinkronisasi.
+      icon: i-lucide-users
+    - title: Analitik Lanjutan
+      description: Laporan detail tentang kualitas layanan, performa tim, dan pola perilaku pelanggan.
+      icon: i-lucide-bar-chart
 testimonials:
-  headline: Customer Success Stories
-  title: Trusted by Industry Leaders
-  description: Join thousands of companies worldwide who have transformed their digital presence with our platform.
+  headline: Kisah Sukses Pelanggan
+  title: Dipercaya oleh Bisnis yang Berkembang
+  description: Bergabunglah dengan ribuan perusahaan di seluruh dunia yang telah mentransformasi dukungan pelanggan mereka dengan platform komunikasi terpadu SaleSmartly.
   items:
-    - quote: The developer experience is unmatched. We migrated our entire infrastructure in weeks instead of months, and our team's productivity has increased dramatically. The TypeScript support and component library saved us months of development time.
+    - quote: SaleSmartly merevolusi dukungan pelanggan kami. Mengelola WhatsApp, Instagram, dan live chat dari satu dashboard meningkatkan efisiensi tim kami hingga 300%. Fitur terjemahan real-time membantu kami ekspansi ke pasar internasional dengan lancar.
       user:
-        name: Sarah Chen
-        description: CTO at TechScale Solutions
+        name: Maria Rodriguez
+        description: Customer Success Manager di GlobalTech
         avatar:
           src: https://i.pravatar.cc/120?img=1
-    - quote: After implementing the edge computing features, our global application response times dropped by 70%. Our European and Asian markets saw immediate improvements in user engagement and conversion rates.
+    - quote: Otomasi AI menangani 60% pertanyaan rutin kami, memungkinkan tim fokus pada isu kompleks. Skor kepuasan pelanggan kami meningkat dari 3.2 menjadi 4.8 bintang hanya dalam 3 bulan implementasi.
       user:
-        name: Marcus Rodriguez
-        description: VP of Engineering at DataFlow
+        name: David Chen
+        description: Support Operations Lead di E-commerce Plus
         avatar:
           src: https://i.pravatar.cc/120?img=7
-    - quote: The platform's security features gave us peace of mind during our SOC 2 certification. The built-in compliance tools and audit logs made the process seamless.
+    - quote: Pelacakan pengunjung dan wawasan pelanggan benar-benar game-changing. Kami bisa melihat persis produk apa yang dilihat pelanggan sebelum menghubungi, memungkinkan kami memberikan rekomendasi personal yang meningkatkan conversion rate 45%.
       user:
-        name: David Kumar
-        description: Security Director at SecureStack
+        name: Sarah Kim
+        description: Sales Director di FashionForward
         avatar:
           src: https://i.pravatar.cc/120?img=3
-    - quote: During our Black Friday sale, we handled 15x our normal traffic without a hitch. The auto-scaling features worked flawlessly, and our monitoring dashboard gave us real-time insights throughout the event.
+    - quote: Mengelola percakapan pelanggan di Facebook, Instagram, dan TikTok sangat kacau sebelum SaleSmartly. Sekarang semuanya terorganisir di satu tempat, dan waktu respons kami meningkat dari jam menjadi menit.
       user:
-        name: Emily Zhang
-        description: Lead Architect at ScaleForce
+        name: Ahmed Hassan
+        description: Social Media Manager di TrendyBrands
         avatar:
           src: https://i.pravatar.cc/120?img=5
-    - quote: The support team goes above and beyond. They helped us optimize our CI/CD pipeline and suggested performance improvements that reduced our build times by 45%.
+    - quote: Widget chat yang dapat disesuaikan sempurna sesuai brand kami, dan survey lead capture membantu kami mengumpulkan 40% lebih banyak qualified leads. ROI terlihat jelas dalam bulan pertama.
       user:
-        name: James Wilson
-        description: DevOps Lead at CloudPro
+        name: Emily Watson
+        description: Marketing Director di ServicePro
         avatar:
           src: https://i.pravatar.cc/120?img=8
-    - quote: Switching to this platform reduced our infrastructure costs by 40% while improving performance. The cost savings alone paid for the investment within the first quarter.
-      user:
-        name: Lisa Patel
-        description: CEO at AutoScale
-        avatar:
-          src: https://i.pravatar.cc/120?img=9
-    - quote: The accessibility features and responsive components helped us achieve WCAG 2.1 compliance with minimal custom development. Our site now scores 100 on Lighthouse accessibility metrics.
+    - quote: Sebagai bisnis yang berkembang, kami butuh solusi yang bisa scale dengan kami. Pricing fleksibel dan fitur powerful SaleSmartly mendukung pertumbuhan kami dari 100 menjadi 10.000 percakapan bulanan.
       user:
         name: Michael Torres
-        description: Frontend Lead at AccessFirst
+        description: CEO di StartupSuccess
+        avatar:
+          src: https://i.pravatar.cc/120?img=9
+    - quote: Dukungan multi-bahasa sangat penting untuk ekspansi Eropa kami. Pelanggan bisa chat dalam bahasa native mereka sementara tim kami menerima pesan yang sudah diterjemahkan - sangat efisien.
+      user:
+        name: Lisa Patel
+        description: International Operations di BorderlessCommerce
         avatar:
           src: https://i.pravatar.cc/120?img=11
-    - quote: We serve millions of API requests daily, and the real-time analytics and monitoring tools have been invaluable for optimizing our performance and identifying bottlenecks.
+    - quote: Dashboard analitik komprehensif memberikan kami insight yang belum pernah kami miliki sebelumnya. Kami bisa track performa tim, kepuasan pelanggan, dan identifikasi peluang improvement secara real-time.
       user:
-        name: Rachel Kim
-        description: Performance Engineer at APIHub
+        name: James Wilson
+        description: Customer Experience Manager di DataDriven
         avatar:
           src: https://i.pravatar.cc/120?img=10
-    - quote: The component library and design system tools helped us maintain consistency across our 20+ micro-frontends. Our development velocity has never been better.
+    - quote: Integrasi dengan CRM existing kami sangat seamless. Data pelanggan tersinkronisasi otomatis, memberikan sales team visibilitas lengkap terhadap interaksi support dan meningkatkan close rate kami.
       user:
-        name: Thomas Weber
-        description: UI Architecture Lead at DesignScale
+        name: Rachel Zhang
+        description: Sales Operations di TechSolutions
         avatar:
           src: https://i.pravatar.cc/120?img=12
-    - quote: Integration with our existing tools was seamless. The webhooks and API documentation made it easy to automate our workflows and enhance our development pipeline.
+    - quote: Chatbot AI 24/7 menangani timezone internasional dengan sempurna. Pelanggan kami mendapat respons instan bahkan ketika tim kami offline, dan isu kompleks ditransfer seamlessly ke human agents.
       user:
-        name: Sophia Martinez
-        description: Integration Specialist at TechFlow
+        name: Thomas Mueller
+        description: Global Support Lead di WorldWideServices
         avatar:
           src: https://i.pravatar.cc/120?img=14
 cta:
-  title: Start with Nuxt UI Pro today!
-  description: Nuxt UI Pro is free in development, but you need a license to use it in production.
+  title: Mulai Transformasi Dukungan Pelanggan Anda Hari Ini
+  description: Bergabunglah dengan ribuan bisnis yang menggunakan SaleSmartly untuk memberikan pengalaman pelanggan luar biasa di semua saluran.
   links:
-    - label: Buy now
-      to: https://ui.nuxt.com/pro/purchase
+    - label: Coba Gratis
+      to: https://app.salesmartly.com/registration?agent=id
       target: _blank
-      icon: i-lucide-shopping-cart
-    - label: License
-      to: https://ui.nuxt.com/getting-started/license
-      trailingIcon: i-lucide-circle-help
+      icon: i-lucide-rocket
+    - label: Lihat Harga
+      to: https://salesmartly.id/pricing
+      trailingIcon: i-lucide-external-link
       target: _blank
       variant: subtle

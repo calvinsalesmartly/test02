@@ -1,150 +1,150 @@
-title: Build your SaaS with Nuxt UI Pro
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes. It includes all primitives to build landing pages, documentations, blogs, dashboards or entire SaaS products.
+title: Transform Customer Support with SaleSmartly
+description: SaleSmartly is an omnichannel customer communication platform that unifies live chat, WhatsApp, Facebook Messenger, Instagram, TikTok, Telegram, LINE, Email, VKontakte, and WeChat into one powerful dashboard. Built for businesses of all sizes.
 seo:
-  title: Nuxt SaaS template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: SaleSmartly - Omnichannel Customer Support Platform
+  description: Transform your customer support with SaleSmartly's unified communication platform. Integrate live chat, WhatsApp, Facebook Messenger, and 8+ channels into one dashboard.
 navigation: false
 hero:
   links:
-    - label: Get started
+    - label: Start Free Trial
       icon: i-lucide-arrow-right
       trailing: true
-      to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
+      to: https://app.salesmartly.com/registration?agent=vn
       target: _blank
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
+    - label: Watch Demo
+      icon: i-lucide-play
       size: xl
       color: neutral
       variant: subtle
-      to: https://github.com/nuxt-ui-pro/saas
+      to: /docs
       target: _blank
 sections:
-  - title: Enterprise-Grade Solutions
-    description: Transform your business with our comprehensive suite of tools. Built for scale, security, and seamless integration, our platform empowers teams to achieve more while maintaining complete control.
+  - title: Omnichannel Communication Hub
+    description: Unite all your customer conversations in one powerful dashboard. From live chat to social media messaging, manage every interaction seamlessly across 10+ communication channels.
     id: features
     orientation: horizontal
     features:
-      - name: Developer-First
-        description: Built by developers for developers, with extensive API documentation and flexible integration options.
-        icon: i-lucide-cog
-      - name: 99.9% Uptime
-        description: Enterprise-grade infrastructure with guaranteed reliability and automatic failover protection.
-        icon: i-lucide-check
-      - name: Bank-Level Security
-        description: SOC 2 Type II certified with end-to-end encryption and advanced threat detection.
-        icon: i-lucide-lock
-  - title: Optimized for Growth
-    description: Scale your business confidently with our enterprise-ready platform. From startups to Fortune 500 companies, we provide the tools and support you need to succeed.
+      - name: Multi-Channel Integration
+        description: Connect LiveChat, WhatsApp, Facebook, Instagram, TikTok, Telegram, LINE, Email, VKontakte, and WeChat in one platform.
+        icon: i-lucide-message-square
+      - name: Real-Time Translation
+        description: Break language barriers with automatic translation between you and customers from around the world.
+        icon: i-lucide-languages
+      - name: 24/7 AI Automat
+        description: AI-powered chatbots provide instant responses and handle routine inquiries around the clock.
+        icon: i-lucide-bot-message-square
+  - title: Intelligent Customer Insights
+    description: Transform visitor behavior into actionable insights. Track customer journeys, analyze preferences, and deliver personalized experiences that drive conversion and retention.
     orientation: horizontal
     reverse: true
     features:
-      - name: Lightning Fast
-        description: Global CDN with sub-100ms latency and automatic performance optimization.
-        icon: i-lucide-rocket
-      - name: Predictable Pricing
-        description: Transparent, usage-based pricing with no hidden fees and volume discounts.
-        icon: i-lucide-circle-dollar-sign
-      - name: Infinite Scale
-        description: Auto-scaling architecture handles millions of requests without breaking a sweat.
-        icon: i-lucide-chart-bar
+      - name: Visitor Tracking
+        description: Monitor browsing behavior, referral sources, and product interests to understand customer intent.
+        icon: i-lucide-eye
+      - name: Customer Database
+        description: Build comprehensive profiles with interaction history, preferences, and synchronized data across systems.
+        icon: i-lucide-database
+      - name: Performance Analytics
+        description: Multi-dimensional reporting to monitor service quality, response times, and conversion metrics.
+        icon: i-lucide-chart-line
 features:
-  title: Features That Set Us Apart
-  description: Our platform combines enterprise-grade reliability with developer-friendly features, providing everything you need to build and scale your applications.
+  title: Powerful Features for Modern Support
+  description: Everything you need to deliver exceptional customer service, from initial contact to conversion. Streamline operations with intelligent automation and insights.
   items:
-    - title: Developer Experience
-      description: Comprehensive documentation, powerful CLI tools, and intuitive APIs that make development a joy.
-      icon: i-lucide-cog
-    - title: Enterprise Ready
-      description: SOC 2 Type II certified, GDPR compliant, with 24/7 enterprise support and dedicated success managers.
-      icon: i-lucide-check
-    - title: Advanced Security
-      description: Multi-factor authentication, role-based access control, and audit logs keep your data protected.
-      icon: i-lucide-lock
-    - title: Global Performance
-      description: Edge computing network spans 200+ locations ensuring lightning-fast response times worldwide.
-      icon: i-lucide-rocket
-    - title: Flexible Pricing
-      description: Pay only for what you use with transparent pricing and no long-term commitments required.
-      icon: i-lucide-circle-dollar-sign
-    - title: Infinite Scalability
-      description: Built on cloud-native architecture that automatically scales to meet any demand.
-      icon: i-lucide-chart-bar
+    - title: Live Chat Widget
+      description: Customizable chat widget that matches your brand style with lead capture surveys and proactive messaging.
+      icon: i-lucide-message-circle
+    - title: Omni-Channel Dashboard
+      description: Centralize all conversations from 10+ channels including social media, messaging apps, and email in one interface.
+      icon: i-lucide-layout-dashboard
+    - title: AI-Powered Automation
+      description: Smart chatbots with pre-built templates for welcome messages, order updates, and discount promotions.
+      icon: i-lucide-bot-message-square
+    - title: Real-Time Translation
+      description: Automatic message translation to communicate effortlessly with customers in any language.
+      icon: i-lucide-globe
+    - title: Customer Relationship Management
+      description: Comprehensive CRM with interaction tracking, browsing history, and synchronized customer data.
+      icon: i-lucide-users
+    - title: Advanced Analytics
+      description: Detailed reports on service quality, team performance, and customer behavior patterns.
+      icon: i-lucide-bar-chart
 testimonials:
   headline: Customer Success Stories
-  title: Trusted by Industry Leaders
-  description: Join thousands of companies worldwide who have transformed their digital presence with our platform.
+  title: Trusted by Growing Businesses
+  description: Join thousands of companies worldwide who have transformed their customer support with SaleSmartly's unified communication platform.
   items:
-    - quote: The developer experience is unmatched. We migrated our entire infrastructure in weeks instead of months, and our team's productivity has increased dramatically. The TypeScript support and component library saved us months of development time.
+    - quote: SaleSmartly revolutionized our customer support. Managing WhatsApp, Instagram, and live chat from one dashboard increased our team's efficiency by 300%. The real-time translation feature helped us expand to international markets seamlessly.
       user:
-        name: Sarah Chen
-        description: CTO at TechScale Solutions
+        name: Maria Rodriguez
+        description: Customer Success Manager at GlobalTech
         avatar:
           src: https://i.pravatar.cc/120?img=1
-    - quote: After implementing the edge computing features, our global application response times dropped by 70%. Our European and Asian markets saw immediate improvements in user engagement and conversion rates.
+    - quote: The AI automation handles 60% of our routine inquiries, allowing our team to focus on complex issues. Our customer satisfaction scores improved from 3.2 to 4.8 stars within just 3 months of implementation.
       user:
-        name: Marcus Rodriguez
-        description: VP of Engineering at DataFlow
+        name: David Chen
+        description: Support Operations Lead at E-commerce Plus
         avatar:
           src: https://i.pravatar.cc/120?img=7
-    - quote: The platform's security features gave us peace of mind during our SOC 2 certification. The built-in compliance tools and audit logs made the process seamless.
+    - quote: The visitor tracking and customer insights are game-changing. We can see exactly what products customers viewed before reaching out, allowing us to provide personalized recommendations that increased our conversion rate by 45%.
       user:
-        name: David Kumar
-        description: Security Director at SecureStack
+        name: Sarah Kim
+        description: Sales Director at FashionForward
         avatar:
           src: https://i.pravatar.cc/120?img=3
-    - quote: During our Black Friday sale, we handled 15x our normal traffic without a hitch. The auto-scaling features worked flawlessly, and our monitoring dashboard gave us real-time insights throughout the event.
+    - quote: Managing customer conversations across Facebook, Instagram, and TikTok was chaotic before SaleSmartly. Now everything is organized in one place, and our response time improved from hours to minutes.
       user:
-        name: Emily Zhang
-        description: Lead Architect at ScaleForce
+        name: Ahmed Hassan
+        description: Social Media Manager at TrendyBrands
         avatar:
           src: https://i.pravatar.cc/120?img=5
-    - quote: The support team goes above and beyond. They helped us optimize our CI/CD pipeline and suggested performance improvements that reduced our build times by 45%.
+    - quote: The customizable chat widget perfectly matches our brand, and the lead capture surveys helped us collect 40% more qualified leads. The ROI was evident within the first month.
       user:
-        name: James Wilson
-        description: DevOps Lead at CloudPro
+        name: Emily Watson
+        description: Marketing Director at ServicePro
         avatar:
           src: https://i.pravatar.cc/120?img=8
-    - quote: Switching to this platform reduced our infrastructure costs by 40% while improving performance. The cost savings alone paid for the investment within the first quarter.
-      user:
-        name: Lisa Patel
-        description: CEO at AutoScale
-        avatar:
-          src: https://i.pravatar.cc/120?img=9
-    - quote: The accessibility features and responsive components helped us achieve WCAG 2.1 compliance with minimal custom development. Our site now scores 100 on Lighthouse accessibility metrics.
+    - quote: As a growing business, we needed a solution that could scale with us. SaleSmartly's flexible pricing and powerful features supported our growth from 100 to 10,000 monthly conversations.
       user:
         name: Michael Torres
-        description: Frontend Lead at AccessFirst
+        description: CEO at StartupSuccess
+        avatar:
+          src: https://i.pravatar.cc/120?img=9
+    - quote: The multi-language support was crucial for our European expansion. Customers can chat in their native language while our team receives translated messages - it's incredibly efficient.
+      user:
+        name: Lisa Patel
+        description: International Operations at BorderlessCommerce
         avatar:
           src: https://i.pravatar.cc/120?img=11
-    - quote: We serve millions of API requests daily, and the real-time analytics and monitoring tools have been invaluable for optimizing our performance and identifying bottlenecks.
+    - quote: The comprehensive analytics dashboard gives us insights we never had before. We can track team performance, customer satisfaction, and identify improvement opportunities in real-time.
       user:
-        name: Rachel Kim
-        description: Performance Engineer at APIHub
+        name: James Wilson
+        description: Customer Experience Manager at DataDriven
         avatar:
           src: https://i.pravatar.cc/120?img=10
-    - quote: The component library and design system tools helped us maintain consistency across our 20+ micro-frontends. Our development velocity has never been better.
+    - quote: Integration with our existing CRM was seamless. Customer data synchronizes automatically, giving our sales team complete visibility into support interactions and improving our close rate.
       user:
-        name: Thomas Weber
-        description: UI Architecture Lead at DesignScale
+        name: Rachel Zhang
+        description: Sales Operations at TechSolutions
         avatar:
           src: https://i.pravatar.cc/120?img=12
-    - quote: Integration with our existing tools was seamless. The webhooks and API documentation made it easy to automate our workflows and enhance our development pipeline.
+    - quote: The 24/7 AI chatbot handles international time zones perfectly. Our customers get instant responses even when our team is offline, and complex issues are seamlessly transferred to human agents.
       user:
-        name: Sophia Martinez
-        description: Integration Specialist at TechFlow
+        name: Thomas Mueller
+        description: Global Support Lead at WorldWideServices
         avatar:
           src: https://i.pravatar.cc/120?img=14
 cta:
-  title: Start with Nuxt UI Pro today!
-  description: Nuxt UI Pro is free in development, but you need a license to use it in production.
+  title: Start Transforming Your Customer Support Today
+  description: Join thousands of businesses using SaleSmartly to deliver exceptional customer experiences across all channels.
   links:
-    - label: Buy now
-      to: https://ui.nuxt.com/pro/purchase
+    - label: Start Free Trial
+      to: https://app.salesmartly.com/registration?agent=vn
       target: _blank
-      icon: i-lucide-shopping-cart
-    - label: License
-      to: https://ui.nuxt.com/getting-started/license
-      trailingIcon: i-lucide-circle-help
+      icon: i-lucide-rocket
+    - label: View Pricing
+      to: https://salesmartly.vn/pricing
+      trailingIcon: i-lucide-external-link
       target: _blank
       variant: subtle
