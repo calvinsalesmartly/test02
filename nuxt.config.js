@@ -57,8 +57,8 @@ export default defineNuxtConfig({
       useCookie: false, // 不用 cookie
       redirectOn: 'root', // 只在根路径时重定向
       alwaysRedirect: false,
-      fallbackLocale: 'vi' // 如果没匹配上，强制回退到 vi
+      fallbackLocale: process.env.DEF_LANG // 如果没匹配上，强制回退到 vi
     },
-    defaultLocale: 'vi'
+    defaultLocale: process.env.DEF_LANG
   }
 })
