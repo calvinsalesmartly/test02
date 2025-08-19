@@ -4,16 +4,22 @@ definePageMeta({
 })
 
 const route = useRoute()
+const { locale } = useI18n()
 
-const { data: page } = await useAsyncData(route.path, () => queryCollection('docs').path(route.path).first())
+const { data: page } = await useAsyncData(route.path, () => queryCollection('docs_' + locale.value).path(route.path).first(), {
+  watch: [locale] // Refetch when locale changes
+})
+
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
 const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
-  return queryCollectionItemSurroundings('docs', route.path, {
+  return queryCollectionItemSurroundings('docs_' + locale.value, route.path, {
     fields: ['description']
   })
+}, {
+  watch: [locale] // Refetch when locale changes
 })
 
 const title = page.value.seo?.title || page.value.title
