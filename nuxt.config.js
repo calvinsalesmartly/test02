@@ -6,8 +6,8 @@ export default defineNuxtConfig({
     '@nuxt/ui-pro',
     '@nuxt/content',
     '@nuxtjs/i18n',
-    '@vueuse/nuxt',
-    'nuxt-og-image'
+    '@vueuse/nuxt'
+    // 'nuxt-og-image'
   ],
   devtools: {
     enabled: true
@@ -28,13 +28,12 @@ export default defineNuxtConfig({
   },
 
   compatibilityDate: '2024-07-11',
-
   nitro: {
     prerender: {
       routes: [
         '/'
       ],
-      crawlLinks: true
+      crawlLinks: false
     }
   },
 
